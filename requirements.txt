@@ -1,0 +1,7 @@
+clu
+git+https://github.com/google/flax.git
+jupyter
+matplotlib
+scikit-learn
+scipy
+seaborn

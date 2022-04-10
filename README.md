@@ -1,5 +1,8 @@
 # TRC-TPU-Experiments
 
+## [Gallery](gallery.md)
+
+
 ## Initial Setup
 Checkout [gcloud cheatsheet](https://patel-zeel.github.io/blog/markdown/2022/04/09/gcloud.html) to setup a TPU VM.
 
